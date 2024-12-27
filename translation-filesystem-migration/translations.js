@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-// locales supported by Siemens
+// locales supported by system
 const supportedLocales = [
     'en',
     'cs',
