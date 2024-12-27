@@ -27,7 +27,7 @@ const supportedLocales = [
     'zh-Hant',
 ];
 
-// mapper between Siemens locale keys and node-red locale keys
+// mapper between  system1 locale keys and system2 locale keys
 const localeMapper = {
     en: 'en-US',
     'zh-Hans': 'zh-CN',
